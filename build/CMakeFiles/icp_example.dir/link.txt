@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/icp_example.dir/src/main.cpp.o CMakeFiles/icp_example.dir/src/ICP.cpp.o -o icp_example  -lm
